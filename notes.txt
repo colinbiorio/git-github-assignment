@@ -7,3 +7,6 @@ Branching in Git:
 Each branch is a separate line of work. You can make changes on a branch without
 touching main, and once everything works you merge it back in, so that the main
 branch always stays working while you test out new code.
+
+Pull Requests in GitHub:
+A Pull Request is a feature that lets you propose changes you've made on a separate branch to be merged into the main branch. It allows team members to review code, leave comments, and discuss/approve changes to the main branch.
