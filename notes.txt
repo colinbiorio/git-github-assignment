@@ -1,9 +1,9 @@
-Git is a version control system that tracks changes to files on your own computer.
-Every commit is basically a save point you can go back to if you break something.
-GitHub is a website that hosts Git repositories online so you can back up your code,
-share it, and work on the same project with other people.
+Git is a version control system that tracks changes to files on your own computer,
+allowing you to use commits as save points to return to in case something goes wrong.
+GitHub is a website that hosts Git repositories online so that you can back up your 
+code, share it with others, and easily collaborate on a project with others.
 
 Branching in Git:
-A branch is a separate line of work. You can make changes on a branch without
-touching main, and once everything works you merge it back in. This way main
-always stays working while you try out new stuff.
+Each branch is a separate line of work. You can make changes on a branch without
+touching main, and once everything works you merge it back in, so that the main
+branch always stays working while you test out new code.
